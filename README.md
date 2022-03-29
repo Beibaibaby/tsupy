@@ -1,6 +1,6 @@
-# tsupy
+# Tsupy
 
-Python binding for tsubasa Go.
+Tsupy is a package helpping you do network dynamics construction and analysis.
 
 ## Overview
 
